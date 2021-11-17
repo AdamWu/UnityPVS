@@ -1,2 +1,2 @@
 # UnityPVS
-A PVS （Potentially Visible Sets） occlusion culling for Unity.
+A PVS （Potentially Visible Sets） Occlusion Culling for Unity.
